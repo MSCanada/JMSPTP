@@ -1,1 +1,1 @@
-# JMSPTP
+THis is a simple JMS Point to Point communication made in JAVA.
